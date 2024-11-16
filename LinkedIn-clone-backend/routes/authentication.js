@@ -43,3 +43,14 @@ router.post("/register", async(req, res) =>
   delete userToReturn.password;
   return res.status(200).json(userToReturn); 
 });
+ const token= await getToken(email, newUser);
+   //we want to return following to the userSelect: 
+   //1. the  actual user created
+   //2. the token
+   const userToReturn ={...newUser.toJson(), token};
+   delete userToReturn.password;
+   return res.status(200).json(userToReturn);
+
+});
+
+module.exports=router;
