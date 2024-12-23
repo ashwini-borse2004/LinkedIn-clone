@@ -39,6 +39,8 @@ router.post("/register", async(req, res) =>
   // we want to return the following details to user
   // 1. The actual user created
   // 2. The token
+
+  
   const userToReturn = {...newUser.toJSON(), token};
   delete userToReturn.password;
   return res.status(200).json(userToReturn); 
@@ -75,6 +77,7 @@ router.post("/register", async(req, res) =>
    const userToReturn ={...newUser.toJson(), token};
    delete userToReturn.password;
    return res.status(200).json(userToReturn);
+   
 
 });
 
