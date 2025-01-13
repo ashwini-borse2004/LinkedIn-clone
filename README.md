@@ -10,6 +10,7 @@ LinkedIn-clone development
 
 4. User Profile
    ![photo4](https://github.com/user-attachments/assets/33ace16a-0d35-425e-92d6-0161dcf5f2f5)
+   ![profile](https://github.com/user-attachments/assets/7f2504ec-875e-4151-ae6a-abec58e58d93)
 
 
 
