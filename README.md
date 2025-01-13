@@ -13,6 +13,9 @@ LinkedIn-clone development
    ![profile](https://github.com/user-attachments/assets/7f2504ec-875e-4151-ae6a-abec58e58d93)
 5. User Networks
    ![photo2](https://github.com/user-attachments/assets/b7c51c49-ebe4-4698-b6b4-09f26ddee9d3)
+   
+6. Users Posts
+   ![photo6](https://github.com/user-attachments/assets/d36587ff-e80b-4308-9a92-d8e7ed1eda58)
 
 
 
