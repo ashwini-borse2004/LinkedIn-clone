@@ -1,7 +1,7 @@
 # LinkedIn-clone
 LinkedIn-clone development
 1. Sign Up Page
-  ![Screenshot 2025-01-12 190104](https://github.com/user-attachments/assets/a201ca07-c8bf-4f4b-9ed8-c008d923ca33)
+   ![signup](https://github.com/user-attachments/assets/f1cc64a0-4ac6-4145-acc8-4b71d026cc4c)
 
 3. Login Page
 ![login](https://github.com/user-attachments/assets/b56a6f9a-d2e4-4533-b55c-f7f2f1cd929f)
